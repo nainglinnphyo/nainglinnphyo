@@ -24,7 +24,7 @@ Currently, I am actively involved in the development of farytaxi.com and getbak.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="70%">
 
 - 🔭 I’m currently working on [Fary Taxi](https:/farytaxi.com)  
   
@@ -35,10 +35,10 @@ Currently, I am actively involved in the development of farytaxi.com and getbak.
 - 💬 Ask me about anything related to realtime such as socket.io, server side event and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times & enjoy new to learning technology!  
+- ⚡ Fun fact: I enjoy new to learning technology!  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="30%">
 
 <div align="center">
 <img src="https://media3.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif?cid=ecf05e474irkw185yr9ktr61arvuks06xebqv4rhsmn98uht&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
@@ -101,6 +101,3 @@ Currently, I am actively involved in the development of farytaxi.com and getbak.
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
