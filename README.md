@@ -17,7 +17,7 @@
 ### Glad to see you here!  
 I'm a skilled fullstack developer proficient in JavaScript, TypeScript, PHP, and Golang. With expertise in frontend and backend development, I create powerful and responsive web applications.
 
-Currently, I am actively involved in the development of farytaxi.com and getbak.co, microservices technologies like gRPC and Redis to build efficient and scalable solutions.  
+Currently, I am actively involved in the development of [Fary Taxi](https://farytaxi.com) and [Getbak](https://getbak.co) with microservices technologies like gRPC and Redis to build efficient and scalable solutions.  
   
 
 <br/>  
