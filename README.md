@@ -26,7 +26,7 @@ Currently, I am actively involved in the development of [Fary Taxi](https://fary
 ## Rapidfire  
 <table><tr><td valign="top" width="70%">
 
-- 🔭 I’m currently working on [Fary Taxi](https:/farytaxi.com)  
+- 🔭 I’m currently working at [Fary Taxi](https:/farytaxi.com)  
   
 
 - 🌱 I’m currently learning Microservices and GRPC Tech  
