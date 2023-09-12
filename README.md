@@ -35,7 +35,7 @@ Currently, I am actively involved in the development of [Fary Taxi](https://fary
 - 💬 Ask me about anything related to realtime such as socket.io, server side event and related technologies  
   
 
-- ⚡ Fun fact: I enjoy new to learning technology!  
+- ⚡ Fun fact: I enjoy new to learn technology!  
 
 
 </td><td valign="top" width="30%">
