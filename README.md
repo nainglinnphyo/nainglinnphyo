@@ -52,13 +52,3 @@ Currently, I am actively involved in the development of [Fary Taxi](https://fary
 ![Profile views counter](https://komarev.com/ghpvc/?username=nainglinnphyo&&style=flat-square)  
   
 
-<br/>  
-
-<div align="left">
-            <a href="https://www.buymeacoffee.com/nainglinnphyo" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="left"
-                />
-            </a></div>
-<br />
