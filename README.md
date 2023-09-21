@@ -22,6 +22,8 @@ Currently, I am actively involved in the development of [Fary Taxi](https://fary
 
 <br/>  
 
+<table><tr><td valign="top" width="70%">
+  
 - 🔭 I’m currently working at [Fary Taxi](https:/farytaxi.com)  
   
 
