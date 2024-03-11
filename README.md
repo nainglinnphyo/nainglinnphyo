@@ -30,7 +30,7 @@ Currently, I am actively involved in the development of [Fary Taxi](https://fary
 - 🌱 I’m currently learning Microservices and GRPC Tech  
   
 
-- 💬 Ask me about anything related to realtime such as socket.io, server side event and related technologies  
+- 💬 Ask me about anything related to realtime such as realtime service, server side event and related technologies  
   
 
 - ⚡ Fun fact: I enjoy new to learn technology!  
