@@ -11,35 +11,12 @@
 
 
 ### Glad to see you here!  
-I'm a skilled fullstack developer proficient in JavaScript, TypeScript, PHP, and Golang. With expertise in frontend and backend development, I create powerful and responsive web applications.
 
-Currently, I am actively involved in the development of [Fary Taxi](https://farytaxi.com) and [Getbak](https://getbak.co) with microservices technologies like gRPC and Redis to build efficient and scalable solutions.  
+Currently, I am actively involved in the development of [Fary Taxi](https://farytaxi.com) and [Getbak](https://getbak.co) with microservices technologies to build efficient and scalable solutions.  
   
 
 <br/>  
 
-<table><tr><td valign="top" width="70%">
-  
-- 🔭 I’m currently working at  [Fary Taxi](https://farytaxi.com)
-  
-
-- 🌱 I’m currently learning Microservices and GRPC Tech  
-  
-
-- 💬 Ask me about anything related to realtime such as realtime service, server side event and related technologies  
-  
-
-- ⚡ Fun fact: I enjoy new to learn technology!  
-
-
-</td><td valign="top" width="30%">
-
-<div align="center">
-<img src="https://media3.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif?cid=ecf05e474irkw185yr9ktr61arvuks06xebqv4rhsmn98uht&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
